@@ -1,0 +1,10 @@
+GetSentiment analyze {i am happy|Subject}
+GetSentiment update my sentiment according to {me feeling very angry|Subject}
+GetSentiment change the lights according to {me feeling sad|Subject}
+GetSentiment change the lights according to {me feeling happy|Subject}
+GetSentiment change the lights according to {me feeling neutral|Subject}
+GetSentiment change the lights according to {me feeling angry|Subject}
+GetSentiment change the lights according to {me feeling good|Subject}
+GetSentiment change the lights according to {me feeling nice|Subject}
+GetSentiment change the lights according to {me feeling swell|Subject}
+GetSentiment {I feel good|Subject}
